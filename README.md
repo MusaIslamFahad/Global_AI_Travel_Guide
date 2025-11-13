@@ -24,8 +24,8 @@ A desktop travel guide application powered by **AI** that helps users explore ci
 **Light Mode / Dark Mode**
 
 <div style="display: flex; gap: 100px;">
-  <img src="screenshots/light_mode.png" alt="Light Mode" width="500" height="800">
-  <img src="screenshots/dark_mode.png" alt="dark mode" width="500" height="800">
+  <img src="screenshots/light_mode.png" alt="Light Mode" width="400" height="800">
+  <img src="screenshots/dark_mode.png" alt="dark mode" width="400" height="800">
 </div>
 
 **Map with Landmarks and Restaurants**
