@@ -1,0 +1,7 @@
+openai
+python-dotenv
+geopy
+Pillow
+requests
+wikipedia
+tkintermapview
