@@ -27,7 +27,7 @@ A desktop travel guide application powered by **AI** that helps users explore ci
 
 **Dark Mode**
 
-![Dark Mode Screenshot](screenshots/dark_mode.png)
+![Dark Mode Screenshot](Global_AI_Travel_Guide/screenshots/dark_mode.png)
 
 **Map with Landmarks and Restaurants**
 
