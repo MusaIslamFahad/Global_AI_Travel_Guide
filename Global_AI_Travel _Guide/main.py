@@ -9,6 +9,7 @@ import threading
 
 from config import LIGHT_BG, LIGHT_FG, DARK_BG, DARK_FG, BUTTON_BLUE, BUTTON_ACTIVE_BLUE, DARK_BUTTON_BLUE, DARK_BUTTON_ACTIVE, LIGHT_TILE_URL, DARK_TILE_URL
 
+
 # -----------------------------
 # GUI Setup
 # -----------------------------
@@ -22,6 +23,7 @@ markers = []
 images_list = []
 
 current_theme = "light"
+
 
 # -----------------------------
 # Left Chat Frame
@@ -58,6 +60,7 @@ theme_button = tk.Button(chat_frame, text="Toggle Dark/Light Mode", width=25, bg
                          activebackground=BUTTON_ACTIVE_BLUE, font=("Helvetica", 12))
 theme_button.pack(padx=10, pady=10)
 
+
 # -----------------------------
 # Right Map Frame
 # -----------------------------
@@ -68,6 +71,7 @@ map_widget = TkinterMapView(map_frame, width=800, height=700, corner_radius=0)
 map_widget.pack(fill=tk.BOTH, expand=True)
 map_widget.set_zoom(12)
 map_widget.set_tile_server(LIGHT_TILE_URL)
+
 
 # -----------------------------
 # Question Handling
@@ -117,8 +121,8 @@ def send_question():
 def send_question_thread():
     threading.Thread(target=send_question, daemon=True).start()
 
-
 ask_button.configure(command=send_question_thread)
+
 
 # -----------------------------
 # Theme Toggle
@@ -154,7 +158,9 @@ def toggle_theme():
 
 theme_button.configure(command=toggle_theme)
 
+
 # -----------------------------
 # Run GUI
 # -----------------------------
 root.mainloop()
+
