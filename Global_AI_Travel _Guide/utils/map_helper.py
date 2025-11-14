@@ -19,3 +19,4 @@ def clear_markers(marker_list):
         except Exception as e:
             print(f"Failed to delete marker: {e}")
     marker_list.clear()
+
