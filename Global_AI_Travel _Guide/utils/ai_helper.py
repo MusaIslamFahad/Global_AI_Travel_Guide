@@ -64,3 +64,4 @@ def parse_ai_response(ai_response, action="General"):
         print("Raw AI response:", ai_response)
         return ai_response, [], ""
 
+
