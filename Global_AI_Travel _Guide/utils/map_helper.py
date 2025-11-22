@@ -20,3 +20,4 @@ def clear_markers(marker_list):
             print(f"Failed to delete marker: {e}")
     marker_list.clear()
 
+
