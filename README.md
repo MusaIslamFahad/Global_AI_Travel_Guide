@@ -35,19 +35,7 @@ A Python + Tkinter desktop travel guide powered by GPT-4o-mini that explores lan
 |------------------------------|
 | ![Map with Markers](screenshots/map_markers.png) |
 
-> _Landmarks and restaurants plotted live on the map with individual markers for each result_
-
----
-
-## 🎥 Demo Video
-
-<!-- Option 1: GitHub-hosted video (drag into any issue to get the asset URL) -->
-https://github.com/MusaIslamFahad/Global_AI_Travel_Guide/assets/YOUR_ASSET_ID/your-demo-video.mp4
-
-<!-- Option 2: YouTube — uncomment and replace the link -->
-<!-- [![Watch the Demo](screenshots/light_mode.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
-
-> _Full demo — searching a city, switching query types, viewing map markers, and toggling dark mode_
+> _Landmarks plotted live on the map with individual markers for each result_
 
 ---
 
