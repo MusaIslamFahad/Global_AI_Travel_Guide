@@ -2,7 +2,7 @@
   
 # 🌏 AI Travel Guide
 
-A Python + Tkinter desktop travel guide powered by GPT-4o-mini that explores landmarks, restaurants, and local events for any city worldwide, with an interactive map and auto fetched Wikipedia images.
+**A Python + Tkinter desktop travel guide powered by GPT-4o-mini that explores landmarks, restaurants and local events for any city worldwide, with an interactive map and auto fetched Wikipedia images.**
 
 <p align="center">
 
