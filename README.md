@@ -15,6 +15,8 @@ A Python + Tkinter desktop travel guide powered by GPT-4o-mini that explores lan
 
 </p>
 
+![AI Travel Guide Banner](https://raw.githubusercontent.com/MusaIslamFahad/ai-travel-guide/main/assets/banner.png)
+
 </div>
 
 ---
